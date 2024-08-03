@@ -38,6 +38,4 @@ npx hardhat compile
 ```shell
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
-By : 
-github : fung93
-twitter : @ffffung93
+
